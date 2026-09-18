@@ -16,9 +16,14 @@
 
 .NOTES
     Auteur                : Matthieu Dasnoy
-    Date de création      : 04/09/2026
-    Dernière modification : 04/09/2026
+    Date de création      : 03/09/2026
+    Dernière modification : 03/09/2026
     Version               : 1.0
+
+    Historique des versions :
+
+    1.0 - 03/09/2026
+    - Version initiale.
 #>
 
 [CmdletBinding()]
