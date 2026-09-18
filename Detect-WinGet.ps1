@@ -22,7 +22,7 @@
     Auteur                : Matthieu Dasnoy
     Date de création      : 03/09/2026
     Dernière modification : 03/09/2026
-    Version               : 1.1
+    Version               : 1.0
 
     Le script doit être exécuté avec des privilèges administrateur.
     Dans Microsoft Intune, utiliser le contexte système.
