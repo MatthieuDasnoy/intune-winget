@@ -36,6 +36,11 @@
     Version               : 1.0
 
     Le script est prévu pour une détection Microsoft Intune exécutée en contexte système.
+
+    Historique des versions :
+
+    1.0 - 03/09/2026
+    - Version initiale.
 #>
 
 [CmdletBinding()]
